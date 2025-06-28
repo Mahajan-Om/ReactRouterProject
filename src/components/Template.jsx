@@ -16,7 +16,7 @@ const Template = ({title , desc1 , desc2 , image , formtype , setislogedin}) => 
             </p>
 
             {formtype === "signup" ? 
-            (<SignupForm setislogedin={setislogedin}/>) 
+            (<SignUpForm setislogedin={setislogedin}/>) 
             : (<LoginForm setislogedin={setislogedin}/>)}
 
             <div className="flex w-full items-center my-4 gap-x-2">
