@@ -1,12 +1,33 @@
-# React + Vite
+# 📘 StudyNotion - React Router Project
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A frontend website for an **EdTech Platform** built using **React** and **React Router DOM v6**. 
+It includes essential routes like `Login`, `Sign Up`, and protected routes to simulate a learning platform’s navigation flow.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🔗 Live Demo
 
-## Expanding the ESLint configuration
+🌐 [View Live Project]
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## ✨ Features
+
+- ⚛️ Built with **React**
+- 📁 Routing with **React Router v6**
+- 🔐 **Login** & **Signup** pages
+- 🔒 Protected Routes using **PrivateRoute**
+- 🌐 Nested Routing structure
+- ✅ Form validation with toast notifications
+- 📱 Responsive design
+
+---
+
+## 🧱 Tech Stack
+
+- **React**
+- **React Router DOM**
+- **Tailwind CSS** 
+- **React Hot Toast** *(for notifications)*
+
+---
